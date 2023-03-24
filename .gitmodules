@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NADIA"]
+	path = NADIA
+	url = https://github.com/cran/NADIA
+	shallow = true
+	registered = true
